@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{A1CE4C67-F678-4E78-98D0-43CC5C242DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphDataStructure", "GraphDataStructure\GraphDataStructure.csproj", "{F91C7349-4063-4692-B69F-F53855851593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLibrary", "MatrixLibrary\MatrixLibrary.csproj", "{F9AC3E0D-E135-4BAA-BF50-8109DE3DA866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CE4C67-F678-4E78-98D0-43CC5C242DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CE4C67-F678-4E78-98D0-43CC5C242DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CE4C67-F678-4E78-98D0-43CC5C242DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CE4C67-F678-4E78-98D0-43CC5C242DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91C7349-4063-4692-B69F-F53855851593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91C7349-4063-4692-B69F-F53855851593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91C7349-4063-4692-B69F-F53855851593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91C7349-4063-4692-B69F-F53855851593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AC3E0D-E135-4BAA-BF50-8109DE3DA866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AC3E0D-E135-4BAA-BF50-8109DE3DA866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AC3E0D-E135-4BAA-BF50-8109DE3DA866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AC3E0D-E135-4BAA-BF50-8109DE3DA866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
